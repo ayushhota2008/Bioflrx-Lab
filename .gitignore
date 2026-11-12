@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Environment & secrets
+.env
+.env.local
+
+# Neon & Node
+.neon
+node_modules/
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
